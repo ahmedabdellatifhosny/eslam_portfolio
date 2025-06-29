@@ -1,7 +1,10 @@
+import Navbar from "../components/layout/Navbar";
+import Footer from "../components/layout/Footer";
 export default function Home() {
   return (
     <div>
-      <h1>Hello Eslam</h1>
+      <Navbar/>
+      <Footer />
     </div>
   );
 }
