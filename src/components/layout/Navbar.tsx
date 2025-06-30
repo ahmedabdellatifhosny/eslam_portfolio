@@ -5,8 +5,8 @@ export default function Navbar() {
       <div className="container">
         <div className=" flex justify-between align-center">
           <div className="logo">
-            <h2 className="text-3xl font-cairo font-bold text-teal-600">
-              اسلام صبحي
+            <h2 className="text-3xl font-cairo font-bold text-teal-600 uppercase">
+              eslam sobhey
             </h2>
           </div>
           <div className="links font-cairo">
